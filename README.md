@@ -2,7 +2,6 @@
 
 A fully functional ATM simulation built in C that provides an interactive banking experience through a Windows console interface.  This student project demonstrates core banking operations with secure authentication and persistent data storage.
 
-![Language](https://img.shields.io/badge/Language-C-blue. svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 ## 📋 Overview
